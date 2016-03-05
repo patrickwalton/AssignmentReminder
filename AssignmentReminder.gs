@@ -2,6 +2,8 @@
 // Title: Assignment Reminder
 // Author: Patrick Walton
 // Notes: This assignment reminder is meant to be used in google apps script to automate reporting that is supposed to be done on a google spreadsheet.
+// This script determines who is supposed to report, but has not and reminds them to do so.
+//Date: May 2015
 /////////////////////////////////////////////////////////////
 
 function assignmentReminder() {
